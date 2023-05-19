@@ -7,7 +7,7 @@ Fortunately Xiaomi has released the kernel sources with the release of the devic
 ## How to build the kernel
 1. Intitalize your local repository using this manifest:
 ```
-repo init -u https://github.com/Teamslow/manifest.git -b zeus-s-oss
+repo init -u https://github.com/Teamslow/manifest.git -b Latest
 ```
 2. Then to sync up:
 ```
